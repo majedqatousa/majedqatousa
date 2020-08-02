@@ -629,7 +629,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 
 .mbr-section {
   position: relative;
-  padding-top: 120px;
+  padding-top: 30px;
   padding-bottom: 120px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
