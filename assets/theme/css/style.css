@@ -400,7 +400,12 @@
     background-color: #fff !important;
     border-color: #fff !important;
     opacity: 0.85; }
-
+.skile{
+  text-align: center;
+}
+.skile-num{
+  float: right;
+}
 .btn-black-outline {
   background: none;
   border-color: #202020;
